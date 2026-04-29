@@ -62,7 +62,7 @@ Análisis de estadísticas oficiales de Puertos del Estado con SQL y Power BI.
 
 Si trabajas en el sector marítimo y te interesa colaborar en proyectos de análisis de datos, estaré encantado de hablar.
 
-**LinkedIn:** [linkedin.com/in/jpinpa3](https://www.linkedin.com/in/jpinpa3)
+**LinkedIn:** [linkedin.com/in/jpinpa3](https://www.linkedin.com/in/javier-piñeiro-paredes)
 
 ---
 *Este portfolio está en construcción activa — nuevos proyectos en los próximos meses.*
